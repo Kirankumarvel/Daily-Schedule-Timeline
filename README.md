@@ -2,7 +2,7 @@
 
 A simple Python project that visualizes your daily routine using `matplotlib`. Perfect for beginners learning data visualization!
 
-![Sample Output](daily_schedule.png) *(example image)*
+![Sample Output](https://github.com/Kirankumarvel/Daily-Schedule-Timeline/blob/main/Daily-Schedule-Timeline.png) *(example image)*
 
 ## 🌟 Features
 - Creates a clean 24-hour timeline of your daily activities
